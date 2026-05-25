@@ -1,6 +1,9 @@
 {
 	"name": "adf-1-vik",
 	"properties": {
+		"globalConfigurations": {
+			"PipelineBillingEnabled": "true"
+		},
 		"trustModeClaimForMi": {
 			"value": "Enabled",
 			"editable": true
