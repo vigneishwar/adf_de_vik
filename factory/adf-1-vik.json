@@ -1,0 +1,15 @@
+{
+	"name": "adf-1-vik",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d50ac03a-f474-4017-ae3e-465ca079134f",
+		"tenantId": "6e5cd0ea-ade6-42ad-bc54-5027545a2914"
+	}
+}
